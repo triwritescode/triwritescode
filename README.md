@@ -1,6 +1,6 @@
 # Hi, I'm Tri 👋
 
-I'm a fullstack engineer based in Indonesia. I build products end to end — from the database to the UI people actually click on.
+I'm a software engineer based in Indonesia. I build products end to end — from the database to the UI people actually click on.
 
 ---
 
