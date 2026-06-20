@@ -21,9 +21,9 @@ I'm a fullstack engineer based in Indonesia. I build products end to end — fro
 ## Stack
 
 ```
-Frontend   TypeScript · React · Next.js · Tailwind CSS · Flutter
+Frontend   TypeScript · React · Next.js · Tailwind CSS · Zustand
 Backend    Node.js · PostgreSQL · Supabase · Firebase · REST APIs
-Tools      AWS · Git · Vercel · Prisma · Playwright
+Tools      AWS · Git · Vercel · Prisma
 ```
 
 ---
